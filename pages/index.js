@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Copy the below text" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          rundll32 printui.dll,PrintUIEntry /y /in /n \\edp-uu-prn01.user.uu.se\eduPrint-UU
+
         </p>
       </main>
 
